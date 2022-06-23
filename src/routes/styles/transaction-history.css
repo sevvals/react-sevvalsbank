@@ -1,0 +1,12 @@
+.transaction {
+    padding-left: 5px;
+}
+
+.transaction:nth-of-type(even) {
+    background-color: #baddd2;
+    color:black
+}
+.transaction:nth-of-type(odd) {
+    background-color: #95beb2;
+    color:black
+}
